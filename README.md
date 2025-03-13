@@ -32,17 +32,20 @@ A **Flutter-based cryptocurrency tracking app** with real-time price updates, hi
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/29fd0020-7f44-46f6-badc-fc49b89033fe)
-![image](https://github.com/user-attachments/assets/11de43d6-50de-4e86-a24c-fe9aaae73ce6)
+### **🔹 UI with current price of crypto with different currencies**
+![image](https://github.com/user-attachments/assets/29fd0020-7f44-46f6-badc-fc49b89033fe) ![image](https://github.com/user-attachments/assets/11de43d6-50de-4e86-a24c-fe9aaae73ce6)
 
 
+
+### **🔹 Currency converter and light mode**
 ![image](https://github.com/user-attachments/assets/18e2dca8-ef3d-4b0d-88ab-9799f820cb1c)
 
 
-![image](https://github.com/user-attachments/assets/0f0d28fd-9c20-4e18-b32f-188f85856c47)
-![image](https://github.com/user-attachments/assets/ec3b59e3-e89f-4a5a-91b1-b0a29c66ef05)
-![image](https://github.com/user-attachments/assets/d00630b0-5fa7-4c45-8492-4748eb568cb7)
-![image](https://github.com/user-attachments/assets/a789563e-7e35-47d8-80cf-66ef65cc794e)
+
+### **🔹 Historical Price Charts**
+![image](https://github.com/user-attachments/assets/0f0d28fd-9c20-4e18-b32f-188f85856c47) ![image](https://github.com/user-attachments/assets/ec3b59e3-e89f-4a5a-91b1-b0a29c66ef05)
+
+![image](https://github.com/user-attachments/assets/d00630b0-5fa7-4c45-8492-4748eb568cb7) ![image](https://github.com/user-attachments/assets/a789563e-7e35-47d8-80cf-66ef65cc794e)
 
 
 
